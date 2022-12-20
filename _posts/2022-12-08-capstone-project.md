@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Pose Estimation
-author: [Sean Liu],[李宥諭]
+author: [Sean Liu]
+author: [李宥諭]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
