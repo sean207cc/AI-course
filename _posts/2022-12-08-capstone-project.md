@@ -19,7 +19,7 @@ tags: [jekyll, ai]
 ---
 ### 系統方塊圖
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/Stock_Price_Forecast_MAE.png?raw=true)
-![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/截圖%202023-01-06%20下午4.46.36.png)
+![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/截圖%202023-01-06%20下午4.46.36.png?raw=true)
 AI模型說明
 
 ---
