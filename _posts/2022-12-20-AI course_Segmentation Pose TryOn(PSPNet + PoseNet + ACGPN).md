@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pose Estimation
+title: AI course_Segmentation Pose TryOn(PSPNet + PoseNet + ACGPN)
 author: [Sean Liu,李宥諭]
 category: [Lecture]
 tags: [jekyll, ai]
