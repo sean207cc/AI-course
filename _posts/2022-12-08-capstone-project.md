@@ -19,8 +19,10 @@ tags: [jekyll, ai]
 ---
 ### 系統方塊圖
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/截圖%202023-01-06%20下午4.46.36.png?raw=true)
+
 AI模型說明
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEXL9gsCksQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ### 製作步驟
@@ -35,7 +37,8 @@ AI模型說明
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/show%201.png?raw=true)
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/show%202.png?raw=true)
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/show%203.png?raw=true)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TEXL9gsCksQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwWavQFB7ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <br>
 <br>
 
