@@ -18,9 +18,9 @@ tags: [jekyll, ai]
 
 ---
 ### 系統方塊圖
-![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/Stock_Price_Forecast_MAE.png?raw=true)
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/截圖%202023-01-06%20下午4.46.36.png?raw=true)
 AI模型說明
+
 
 ---
 ### 製作步驟
@@ -35,7 +35,7 @@ AI模型說明
 <iframe width="835" height="470" src="
 https://www.youtube.com/embed/DtzN5vtEgOk
 " title="RL-Robocar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEXL9gsCksQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
 
