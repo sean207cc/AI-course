@@ -5,7 +5,7 @@ author: [Sean Liu,李宥諭]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-期末專題實作: Virtual Try-On (試穿衣服)
+期末專題實作: Segmentation Pose Try-On (試穿衣服)
 
 ---
 ## Virty Try-On (試穿衣服)
