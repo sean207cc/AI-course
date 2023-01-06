@@ -20,8 +20,7 @@ tags: [jekyll, ai]
 ### 系統方塊圖
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/截圖%202023-01-06%20下午4.46.36.png?raw=true)
 
-AI模型說明
-先通過 Expansion layer 來擴展維度，之後再用深度可分離卷積來提取特徵，之後使用 Projection layer 來壓縮數據，讓網路重新變小。因為 Expansion layer 和 Projection layer 都是有可以學習的參數，所以整個網路結構可以學習到如何更好的擴展數據和重新壓縮數據。
+**AI模型說明**:先通過 Expansion layer 來擴展維度，之後再用深度可分離卷積來提取特徵，之後使用 Projection layer 來壓縮數據，讓網路重新變小。因為 Expansion layer 和 Projection layer 都是有可以學習的參數，所以整個網路結構可以學習到如何更好的擴展數據和重新壓縮數據。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEXL9gsCksQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
