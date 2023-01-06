@@ -32,9 +32,9 @@ AI模型說明
 
 ---
 ### 系統測試及成果展示
-<iframe width="835" height="470" src="
-https://www.youtube.com/embed/DtzN5vtEgOk
-" title="RL-Robocar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/show%201.png?raw=true)
+![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/show%202.png?raw=true)
+![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/show%203.png?raw=true)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEXL9gsCksQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
