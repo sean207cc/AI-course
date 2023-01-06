@@ -8,7 +8,8 @@ tags: [jekyll, ai]
 期末專題實作: Segmentation Pose Try-On (試穿衣服)
 
 ---
-## Virty Try-On (試穿衣服)
+## Segmentation Pose Try-On (試穿衣服)
+Go to [Segmentation Pose Try-On (試穿衣服)](https://www.kaggle.com/code/seeanbooo/segmentation-pose-tryon) click [Fork] <br />
 
 ### 系統簡介及功能說明
 
