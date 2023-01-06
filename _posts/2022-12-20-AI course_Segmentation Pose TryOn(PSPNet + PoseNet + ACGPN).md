@@ -42,6 +42,8 @@ Go to [Segmentation Pose Try-On (試穿衣服)](https://www.kaggle.com/code/seea
 ![](https://github.com/sean207cc/AI-course/blob/gh-pages/images/show%203.png?raw=true)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwWavQFB7ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Go to [Segmentation Pose Try-On (試穿衣服)](https://www.kaggle.com/code/seeanbooo/segmentation-pose-tryon) click [Fork] <br />
+
 <br>
 <br>
 
